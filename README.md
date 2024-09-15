@@ -8,9 +8,9 @@ Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](http
 
 ### Github Statistic
 <p align="left">
-<a href="https://github.com/wiiswisnu">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api username=wiiswisnu&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=wiiswisnu&layout=compact&theme=algolia"/>
+<a href="https://github.com/wisnumrt">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api username=wisnumrt&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=wisnumrt&layout=compact&theme=algolia"/>
 </a>
 </p>
 <!--
