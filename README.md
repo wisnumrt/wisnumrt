@@ -4,7 +4,7 @@ Perkenalkan nama saya **Wisnu Murti**.<br>
 
 Saya seorang **Informatics Student** di [UPN Veteran Jawa Timur](https://www.upnjatim.ac.id/).<br>
 
-Jika kamu tertarik untuk berkenalan dengan saya, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/wisnumrt)saya ya.
+Jika kamu tertarik untuk berkenalan dengan saya, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/wisnumrt) saya ya.
 
 ### Github Statistic
 <p align="left">
